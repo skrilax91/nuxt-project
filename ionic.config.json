@@ -1,0 +1,7 @@
+{
+  "name": "delyss",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

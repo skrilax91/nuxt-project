@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>.cls-2{stroke-miterlimit:10;stroke-width:2px;fill:url(#Dégradé_sans_nom_23);stroke:url(#Dégradé_sans_nom_23-2);}</style>
+        <linearGradient id="Dégradé_sans_nom_23" x1="22.702" y1="38.7969" x2="22.702" y2="4.4945" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#1e2836" />
+            <stop offset="0.1952" stop-color="#1f2a3a" />
+            <stop offset="0.3851" stop-color="#243246" />
+            <stop offset="0.573" stop-color="#2a3e59" />
+            <stop offset="0.7595" stop-color="#344f75" />
+            <stop offset="0.9435" stop-color="#416498" />
+            <stop offset="1" stop-color="#456ca4" />
+        </linearGradient>
+        <linearGradient id="Dégradé_sans_nom_23-2" x1="31.779" y1="5.9238" x2="13.6249" y2="37.3676" xlink:href="#Dégradé_sans_nom_23" />
+    </defs>
+    <title>Options</title>
+    <g id="PictosGache">
+        <circle class="cls-2" cx="20" cy="20" r="18" />
+    </g>
+</svg>

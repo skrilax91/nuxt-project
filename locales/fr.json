@@ -1,0 +1,75 @@
+{
+  "home": "Accueil",
+  "continue": "Continuer",
+  "confirm": "Confirmer",
+  "authentication": "Authentification",
+
+  "errors": {
+    "default": "Une erreur est survenue"
+  },
+
+  "licence": {
+    "your": "Votre licence",
+    "invalid": "Licence invalide"
+  },
+
+  "home": {
+    "selectTable": "Sélectionnez votre table :",
+    "enterLicense": "Entrer la licence",
+    "carte": "Carte",
+    "upToDate": "Delyss est à jour",
+    "alreadyUpToDate": "Delyss est déjà à jour",
+    "licenceValided": "Licence validée",
+    "loading": "Chargement...",
+    "noLicence": "Veuillez saisir une licence",
+    "initializingStore": "Chargement du menu..."
+  },
+
+  "auth": {
+    "writePwd": "Saisissez le mot de passe",
+    "badPassword": "Mot de passe incorrect"
+  },
+
+  "overlay": {
+    "updating": "Mise à jour en cours...",
+    "licenceUpdate": "Chargement de la licence...",
+    "isUpdateSettings": "Mise à jour des paramètres",
+    "resetDB": "Nettoyage de la base de donnée",
+    "checkingLicence": "Verification de la licence...",
+    "loadingLang": "Chargement des langues...",
+    "initializing":"Initialisation",
+    "checkingUpdate":"Vérification des mises à jour",
+    "patience": "Cette opération peut prendre du temps",
+    "loadingApp": "Chargement des données...",
+    "authenticate": "Authentification en cours...",
+    "setBusiness": "Chargement de l'établissement...",
+    "registerTablet": "Enregistrement de la tablette",
+    "resetConfigs": "Chargement des paramètres..."
+  },
+
+  "login": {
+    "title": "Connexion",
+    "login": "Se connecter",
+    "email": "Adresse email",
+    "password": "Mot de passe",
+    "register": "Créer un compte",
+    "demo": {
+      "demo": "Démo",
+      "title": "Essayez un menu complet de démonstration",
+      "try": "Essayez"
+    }
+  },
+
+  "dish": {
+    "allergens": "Allergènes",
+    "availableOptions": "Options disponibles",
+    "detail": "Detail des plats",
+    "select": "Selectionner",
+    "suggestions": "Suggestion d'accompagnement"
+  },
+  "menu": {
+    "formulas": "Formules",
+    "validate": "Valider mon menu"
+  },
+  "return": "Retourner"
+}

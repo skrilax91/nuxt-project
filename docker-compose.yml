@@ -1,0 +1,8 @@
+version: '3.9'
+services:
+  web:
+    image: gitlab.dymension.fr:5050/delyss-menu/delyss-mobile/delyss-web:latest
+    environment:
+      PANEL_URL: "http://panel.delyss-menu.com"
+    ports:
+      - '8000:3000'

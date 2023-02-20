@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Delyss menu</string>
+    <string name="title_activity_main">Delyss menu</string>
+    <string name="package_name">fr.dymension.delyss</string>
+    <string name="custom_url_scheme">fr.dymension.delyss</string>
+</resources>
